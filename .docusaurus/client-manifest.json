@@ -1,0 +1,457 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "158": [
+      158
+    ],
+    "237": [
+      237
+    ],
+    "294": [
+      869,
+      294
+    ],
+    "416": [
+      869,
+      416
+    ],
+    "608": [
+      61,
+      401,
+      869,
+      608
+    ],
+    "17896441": [
+      608,
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "07925869": [
+      185
+    ],
+    "0e384e19": [
+      976
+    ],
+    "0f4a2084": [
+      862
+    ],
+    "14eb3368": [
+      869,
+      969
+    ],
+    "1a4e3797": [
+      869,
+      138
+    ],
+    "1f391b9e": [
+      608,
+      869,
+      61
+    ],
+    "207a055d": [
+      183
+    ],
+    "34cfb5d1": [
+      471
+    ],
+    "393be207": [
+      134
+    ],
+    "445974d5": [
+      793
+    ],
+    "5e95c892": [
+      647
+    ],
+    "5f8ef9da": [
+      913
+    ],
+    "7b7fec83": [
+      896
+    ],
+    "870917cb": [
+      698
+    ],
+    "88b042ab": [
+      802
+    ],
+    "8cd85cb2": [
+      392
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "baa6c553": [
+      205
+    ],
+    "c08ea2e8": [
+      829
+    ],
+    "c141421f": [
+      957
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "d3402c82": [
+      531
+    ],
+    "e571d78f": [
+      196
+    ],
+    "styles": [
+      48,
+      61,
+      138,
+      294,
+      354,
+      401,
+      416,
+      608,
+      634,
+      792,
+      969,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.6a3bb9ab.js",
+          "hash": "03cc1ebd1e3e7066",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/a94703ab.6a3bb9ab.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.58ab9230.js",
+          "hash": "5b19b4690654653c",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/1f391b9e.58ab9230.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.c57ac9ae.js",
+          "hash": "ee62e6eec9136202",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/a7bd4aaa.c57ac9ae.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.b8416e5a.js",
+          "hash": "df13100524b82f9e",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/393be207.b8416e5a.js"
+        }
+      ]
+    },
+    "138": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.121b079c.js",
+          "hash": "9e25e7e9d967724f",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/1a4e3797.121b079c.js"
+        }
+      ]
+    },
+    "158": {
+      "js": [
+        {
+          "file": "assets/js/158.14ad5778.js",
+          "hash": "10fcc76a30a103d7",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/158.14ad5778.js"
+        }
+      ]
+    },
+    "183": {
+      "js": [
+        {
+          "file": "assets/js/207a055d.0debedf8.js",
+          "hash": "e1beba3110f26963",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/207a055d.0debedf8.js"
+        }
+      ]
+    },
+    "185": {
+      "js": [
+        {
+          "file": "assets/js/07925869.1d0bf7dc.js",
+          "hash": "03c8179eb05692b4",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/07925869.1d0bf7dc.js"
+        }
+      ]
+    },
+    "196": {
+      "js": [
+        {
+          "file": "assets/js/e571d78f.c6d0d2d7.js",
+          "hash": "10370988dfd46db1",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/e571d78f.c6d0d2d7.js"
+        }
+      ]
+    },
+    "205": {
+      "js": [
+        {
+          "file": "assets/js/baa6c553.5053ffbf.js",
+          "hash": "45f36b5fe1ee96e1",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/baa6c553.5053ffbf.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.bf298312.js",
+          "hash": "568bcb9b61c3a399",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/a7456010.bf298312.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.e55fc1ff.js",
+          "hash": "0082954a859a46c2",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/237.e55fc1ff.js"
+        }
+      ]
+    },
+    "294": {
+      "js": [
+        {
+          "file": "assets/js/294.5ccc7d68.js",
+          "hash": "45b1200cfea7d00b",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/294.5ccc7d68.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.7fcb0f44.js",
+          "hash": "fbd3932dc3a8f0ba",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/runtime~main.7fcb0f44.js"
+        }
+      ]
+    },
+    "392": {
+      "js": [
+        {
+          "file": "assets/js/8cd85cb2.b2adef15.js",
+          "hash": "669579bcfacd92bc",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/8cd85cb2.b2adef15.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.3fc82d0a.js",
+          "hash": "18213d0281b02844",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/17896441.3fc82d0a.js"
+        }
+      ]
+    },
+    "416": {
+      "js": [
+        {
+          "file": "assets/js/416.0ae9a9f0.js",
+          "hash": "b9d2a292802841cb",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/416.0ae9a9f0.js"
+        }
+      ]
+    },
+    "471": {
+      "js": [
+        {
+          "file": "assets/js/34cfb5d1.566dcad1.js",
+          "hash": "39e9031904ba6cdd",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/34cfb5d1.566dcad1.js"
+        }
+      ]
+    },
+    "531": {
+      "js": [
+        {
+          "file": "assets/js/d3402c82.62c3412f.js",
+          "hash": "80c8f7c18af1bc18",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/d3402c82.62c3412f.js"
+        }
+      ]
+    },
+    "608": {
+      "js": [
+        {
+          "file": "assets/js/608.5ca494ec.js",
+          "hash": "d2509c31bfab2b5d",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/608.5ca494ec.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.71ef0f72.js",
+          "hash": "54a3d7863e2342cb",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/c4f5d8e4.71ef0f72.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.2cadd78d.js",
+          "hash": "4b6574acd4e3823a",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/5e95c892.2cadd78d.js"
+        }
+      ]
+    },
+    "698": {
+      "js": [
+        {
+          "file": "assets/js/870917cb.de2c64fb.js",
+          "hash": "9d3d436a24836305",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/870917cb.de2c64fb.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.c57f137f.js",
+          "hash": "6b1bf9318c8d141c",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/aba21aa0.c57f137f.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.151fc3bf.js",
+          "hash": "d883748c39619c1f",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/main.151fc3bf.js"
+        }
+      ]
+    },
+    "793": {
+      "js": [
+        {
+          "file": "assets/js/445974d5.6d1eb7e1.js",
+          "hash": "53f3c61e2dafa10a",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/445974d5.6d1eb7e1.js"
+        }
+      ]
+    },
+    "802": {
+      "js": [
+        {
+          "file": "assets/js/88b042ab.24894ff6.js",
+          "hash": "75f98572457a45d7",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/88b042ab.24894ff6.js"
+        }
+      ]
+    },
+    "829": {
+      "js": [
+        {
+          "file": "assets/js/c08ea2e8.feb9e602.js",
+          "hash": "c30dac1b6c0e0e83",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/c08ea2e8.feb9e602.js"
+        }
+      ]
+    },
+    "862": {
+      "js": [
+        {
+          "file": "assets/js/0f4a2084.984065cf.js",
+          "hash": "eac330d59a6557d7",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/0f4a2084.984065cf.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.b9c14fcd.css",
+          "hash": "2f7176f394e32a1f",
+          "publicPath": "/dynamo-docs-site-poc/assets/css/styles.b9c14fcd.css"
+        }
+      ]
+    },
+    "896": {
+      "js": [
+        {
+          "file": "assets/js/7b7fec83.695634ef.js",
+          "hash": "ded37b432ce6b83f",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/7b7fec83.695634ef.js"
+        }
+      ]
+    },
+    "913": {
+      "js": [
+        {
+          "file": "assets/js/5f8ef9da.a3abc78a.js",
+          "hash": "b57e5fc9904678b3",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/5f8ef9da.a3abc78a.js"
+        }
+      ]
+    },
+    "957": {
+      "js": [
+        {
+          "file": "assets/js/c141421f.0563b634.js",
+          "hash": "ab70a96f4092c1ac",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/c141421f.0563b634.js"
+        }
+      ]
+    },
+    "969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.032d902d.js",
+          "hash": "e4d04fbdaccd6da7",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/14eb3368.032d902d.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.ecc1feaa.js",
+          "hash": "2a1e75d51240d2bf",
+          "publicPath": "/dynamo-docs-site-poc/assets/js/0e384e19.ecc1feaa.js"
+        }
+      ]
+    }
+  }
+}
