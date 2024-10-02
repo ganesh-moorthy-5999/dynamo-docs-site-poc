@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdynamo=self.webpackChunkdynamo||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/dynamo-docs-site-poc/blog","blogTitle":"Blog","authorsListPath":"/dynamo-docs-site-poc/blog/authors"}')}}]);
